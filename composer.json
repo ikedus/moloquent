@@ -1,6 +1,6 @@
 {
-  "name": "moloquent/moloquent",
-  "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
+  "name": "ikedus/moloquent",
+  "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) cloned from molequent/molequent",
   "keywords": [
     "laravel",
     "eloquent",
@@ -10,7 +10,7 @@
     "model",
     "moloquent"
   ],
-  "homepage": "https://github.com/moloquent/moloquent",
+  "homepage": "https://github.com/ikedus/moloquent",
   "authors": [
     {
       "name": "Moloquent",
