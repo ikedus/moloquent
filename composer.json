@@ -1,5 +1,6 @@
 {
   "name": "ikedus/moloquent",
+  "version": "master",
   "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) cloned from molequent/molequent",
   "keywords": [
     "laravel",
